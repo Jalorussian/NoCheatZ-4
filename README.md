@@ -1,4 +1,4 @@
-# NoCheatZ-4 [![Build Status Linux](https://travis-ci.org/Jalorussian/NoCheatZ-4.svg?branch=master)](https://travis-ci.org/Jalorussian/NoCheatZ-4) [![Build Status Windows](https://ci.appveyor.com/api/projects/status/qj2b6mkg8svx088x1tqt?svg=true)](https://ci.appveyor.com/project/Jalorussian/nocheatz-4)
+# NoCheatZ-4 [![Build Status Linux](https://travis-ci.org/Jalorussian/NoCheatZ-4.svg?branch=master)](https://travis-ci.org/Jalorussian/NoCheatZ-4) [![Build Status Windows](https://ci.appveyor.com/api/projects/status/uf6a6k6ym356l5rw43oik2ab?svg=true)](https://ci.appveyor.com/project/Jalorussian/nocheatz-4)
 Source Engine serversided anti-cheat plugin. (CS:S, CS:GO).
 
 # Table of content
